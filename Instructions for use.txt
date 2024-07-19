@@ -1,0 +1,5 @@
+Article:
+Generation and Analysis of Generation Parameters of Synthetic EEG Signals for Testing Dynamic Directed Brain Connectivity Estimation Methods
+Authors: Zoran Šverko, Peter Rogelj, Saša Vlahinić
+
+Run the file named: "synth_signal_gen.m". The comments in that file follow the procedure for signal generation described in the article text.
